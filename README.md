@@ -7,7 +7,7 @@ The web app allows to display the data on web page from database. <br>
 The app also provides a deleting function which allows to delete the data on page as well as in database. <br>
 
 Windows Setup: <br>
-1.download and install Nodejs:https://nodejs.org/zh-cn/download/
+1.download and install Nodejs:https://nodejs.org/zh-cn/download/<br>
 2.cmd to working folder  <br>
 3.npm init  <br>
 
@@ -18,5 +18,5 @@ Windows Setup: <br>
 7.npm install express-validator --save  <br>
 8.npm install mongojs --save  <br>
 
-//data base
-9.download and install mongodb:https://www.mongodb.com/download-center?jmp=nav#community
+//data base<br>
+9.download and install mongodb:https://www.mongodb.com/download-center?jmp=nav#community<br>
